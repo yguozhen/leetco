@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bpJC4V2liuml2dZNppbNsQK0nA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/graph" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/graph" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="E_28SearchA2DMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarySearch.E_28SearchA2DMatrix" />
+      <module name="lintcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E_28SearchA2DMatrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="" />
+      <created>1589322970442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589322970442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1241" height="204" key="GridCell.Tab.0.bottom" timestamp="1591672508409">
+      <screen x="35" y="23" width="1245" height="777" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.0.bottom/1280.23.1048.747/35.23.1245.777@35.23.1245.777" timestamp="1591672508409" />
+    <state width="1241" height="204" key="GridCell.Tab.0.center" timestamp="1591672508407">
+      <screen x="35" y="23" width="1245" height="777" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.0.center/1280.23.1048.747/35.23.1245.777@35.23.1245.777" timestamp="1591672508407" />
+    <state width="1241" height="204" key="GridCell.Tab.0.left" timestamp="1591672508400">
+      <screen x="35" y="23" width="1245" height="777" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.0.left/1280.23.1048.747/35.23.1245.777@35.23.1245.777" timestamp="1591672508400" />
+    <state width="1241" height="204" key="GridCell.Tab.0.right" timestamp="1591672508408">
+      <screen x="35" y="23" width="1245" height="777" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.0.right/1280.23.1048.747/35.23.1245.777@35.23.1245.777" timestamp="1591672508408" />
+    <state x="314" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1591068136142">
+      <screen x="39" y="23" width="1241" height="777" />
+    </state>
+    <state x="313" y="246" key="com.intellij.ide.util.TipDialog/38.23.1242.777@38.23.1242.777" timestamp="1589592445105" />
+    <state x="314" y="246" key="com.intellij.ide.util.TipDialog/39.23.1241.777@39.23.1241.777" timestamp="1591068136142" />
+    <state x="35" y="23" key="new project wizard" timestamp="1591652345832">
+      <screen x="35" y="23" width="1245" height="777" />
+    </state>
+    <state x="35" y="23" key="new project wizard/35.23.1245.777@35.23.1245.777" timestamp="1591652345832" />
+  </component>
+</project>

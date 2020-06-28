@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_programming/M_322CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/E_349IntersectionsOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/E_350IntersectionsOfTwoArrays2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_162FindPeekElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_275Hindex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_540SingleElementInASortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/H_154FindMinimumInRotatedArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_153FindMediumNumberInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_324WiggleSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_33SearchInARotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_528RandomPickWithWeight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +31,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1bpJC4V2liuml2dZNppbNsQK0nA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

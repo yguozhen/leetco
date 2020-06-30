@@ -3,6 +3,7 @@ package binarySearch;
 import java.util.Arrays;
 
 public class M_324WiggleSort2 {
+    //solution1
     public void wiggleSort(int[] nums) {
         Arrays.sort(nums);
         int n = nums.length;
@@ -18,4 +19,5 @@ public class M_324WiggleSort2 {
         }
         System.arraycopy(temp, 0, nums, 0, n);
     }
+
 }

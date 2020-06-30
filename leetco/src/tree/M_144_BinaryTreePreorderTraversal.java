@@ -10,7 +10,20 @@ import java.util.Stack;
 //Space:O(h)
 public class M_144_BinaryTreePreorderTraversal {
 
-    /*递归*/
+
+    public class TreeNode {
+          int val;
+          TreeNode left;
+          TreeNode right;
+          TreeNode() {}
+          TreeNode(int val) { this.val = val; }
+          TreeNode(int val, TreeNode left, TreeNode right) {
+              this.val = val;
+              this.left = left;
+              this.right = right;
+          }
+      }
+    /*递归 recursive*/
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<>();
         if (root == null) return res;
@@ -26,8 +39,8 @@ public class M_144_BinaryTreePreorderTraversal {
 
     }
 
-    /*迭代*/
-    public List<Integer> preorderTraversal1(TreeNode root) {
+    /*迭代 iteration*/
+    public List<Integer> preorderTraversal2(TreeNode root) {
 
         List<Integer> res = new ArrayList<>();
         if (root == null) return res;
@@ -44,6 +57,22 @@ public class M_144_BinaryTreePreorderTraversal {
             if (cur.left != null) stack.push(cur.left);
         }
 
+        return res;
+    }
+    public List<Integer> preorderTraversal3(TreeNode root) {
+        List<Integer> res = new ArrayList<Integer>();
+        if(root == null){
+            return res;
+        }
+
+        //divided
+        List<Integer> left = preorderTraversal(root.left);
+        List<Integer> right = preorderTraversal(root.right);
+
+        //conquer
+        res.add(root.val);
+        res.addAll(left);
+        res.addAll(right);
         return res;
     }
 }

@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/H_154FindMinimumInRotatedArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_153FindMediumNumberInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_324WiggleSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_33SearchInARotatedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_528RandomPickWithWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/H_354RussianDollEnvelopes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/H_327CountOfRangeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarySearch/M_324WiggleSort2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySearch/M_324WiggleSort2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/E_104MaximumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/E_104MaximumDepthOfBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/E_110BalancedBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/E_110BalancedBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/M_102_BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/M_102_BinaryTreeLevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/M_144_BinaryTreePreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/M_144_BinaryTreePreorderTraversal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,9 +125,10 @@
       <screen x="35" y="23" width="1245" height="777" />
     </state>
     <state x="35" y="23" key="new project wizard/35.23.1245.777@35.23.1245.777" timestamp="1591652345832" />
-    <state x="321" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1593035739618">
-      <screen x="35" y="23" width="1245" height="777" />
+    <state x="323" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1593487349693">
+      <screen x="37" y="23" width="1243" height="777" />
     </state>
     <state x="321" y="124" width="670" height="676" key="search.everywhere.popup/35.23.1245.777@35.23.1245.777" timestamp="1593035739618" />
+    <state x="323" y="124" width="670" height="676" key="search.everywhere.popup/37.23.1243.777@37.23.1243.777" timestamp="1593487349693" />
   </component>
 </project>

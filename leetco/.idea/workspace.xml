@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_programming/H_72EditDIstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_programming/M_240SearchInA2DMatrix2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/H_315CountOfSmallerNumberAfterSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_419BattleshipsInaBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/M_15ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/M_18FourSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/H_302SmallestRectangularEnclosingPixels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

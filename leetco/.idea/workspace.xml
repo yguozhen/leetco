@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/M_15ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/M_18FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/H_302SmallestRectangularEnclosingPixels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/Inorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/Postorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/Preorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/levelorder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,10 +122,23 @@
       <screen x="35" y="23" width="1245" height="777" />
     </state>
     <state x="35" y="23" key="new project wizard/35.23.1245.777@35.23.1245.777" timestamp="1591652345832" />
-    <state x="321" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1593632044347">
-      <screen x="35" y="23" width="1245" height="777" />
+    <state x="324" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1593837275281">
+      <screen x="38" y="23" width="1242" height="777" />
     </state>
     <state x="321" y="124" width="670" height="676" key="search.everywhere.popup/35.23.1245.777@35.23.1245.777" timestamp="1593632044347" />
+    <state x="322" y="124" width="670" height="676" key="search.everywhere.popup/36.23.1244.777@36.23.1244.777" timestamp="1593804364277" />
     <state x="323" y="124" width="670" height="676" key="search.everywhere.popup/37.23.1243.777@37.23.1243.777" timestamp="1593487349693" />
+    <state x="324" y="124" width="670" height="676" key="search.everywhere.popup/38.23.1242.777@38.23.1242.777" timestamp="1593837275281" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AAAAbasic/Postorder.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

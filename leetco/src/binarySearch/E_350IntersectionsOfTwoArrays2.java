@@ -1,5 +1,8 @@
 package binarySearch;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class E_350IntersectionsOfTwoArrays2 {
     public int[] intersect(int[] nums1, int[] nums2) {
         if(nums1.length == 0 || nums2.length == 0){

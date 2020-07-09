@@ -12,6 +12,9 @@ public class H_45JumpGame2 {
         int index = 0;
         for(int i = 0; i < dp.length; i ++){
             for(int j = 1; j <= nums[i] && i + j < dp.length; j ++){
+                if(nums[i] + i < dp.length && dp[nums[i] + i] != 0){
+                    break;
+                }
                 if(dp[i + j] == 0){
                     dp[i + j] = dp[i] + 1;
                 }else{

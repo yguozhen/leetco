@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/String/E_422ValidWordSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/E_434NumbersOfSegmentsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/M_379DesignPhoneDirectionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/design/M_380InsertDeleteGetRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/E_206ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/E_83RemoveDuplicateSortedList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/M_82RemoveDuplicateSortedist2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/E_415AddStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/E_415AddStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,13 +124,14 @@
       <screen x="35" y="23" width="1245" height="777" />
     </state>
     <state x="35" y="23" key="new project wizard/35.23.1245.777@35.23.1245.777" timestamp="1591652345832" />
-    <state x="328" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1594406927709">
-      <screen x="43" y="23" width="1237" height="777" />
+    <state x="326" y="124" width="672" height="676" key="search.everywhere.popup" timestamp="1594487329688">
+      <screen x="41" y="23" width="1239" height="777" />
     </state>
     <state x="321" y="124" width="670" height="676" key="search.everywhere.popup/35.23.1245.777@35.23.1245.777" timestamp="1593632044347" />
     <state x="322" y="124" width="670" height="676" key="search.everywhere.popup/36.23.1244.777@36.23.1244.777" timestamp="1593804364277" />
     <state x="323" y="124" width="670" height="676" key="search.everywhere.popup/37.23.1243.777@37.23.1243.777" timestamp="1593487349693" />
     <state x="324" y="124" width="670" height="676" key="search.everywhere.popup/38.23.1242.777@38.23.1242.777" timestamp="1593909697947" />
+    <state x="326" y="124" width="672" height="676" key="search.everywhere.popup/41.23.1239.777@41.23.1239.777" timestamp="1594487329688" />
     <state x="328" y="124" width="670" height="676" key="search.everywhere.popup/43.23.1237.777@43.23.1237.777" timestamp="1594406927709" />
   </component>
   <component name="XDebuggerManager">

@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/design/M_379DesignPhoneDirectionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/design/M_380InsertDeleteGetRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/E_206ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/E_83RemoveDuplicateSortedList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/M_82RemoveDuplicateSortedist2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/H_425WordSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/E_141LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/H_23MergekSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/M_142LinkedListCycle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/M_148SortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/M_19RemoveNthNodeFromEndOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/M_61rotateList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

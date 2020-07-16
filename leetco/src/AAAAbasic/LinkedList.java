@@ -32,7 +32,27 @@ public class LinkedList {
         return pre;
     }
     // 4, merge two linked list
-
+    public ListNode merget(ListNode left, ListNode right){
+        ListNode dummy = new ListNode(0);
+        ListNode tail = dummy;
+        while(left != null && right != null){
+            if(left.val > right.val){
+                tail.next = right;
+                right = right.next;
+                tail = tail.next;
+            }else{
+                tail.next = left;
+                left = left.next;
+                tail = tail.next;
+            }
+            if(left == null){
+                tail.next = right;
+            }else if(right == null){
+                tail.next = left;
+            }
+        }
+        return dummy.next;
+    }
 
     // 5, Middle of a linked list
     public ListNode findMiddle(ListNode head){

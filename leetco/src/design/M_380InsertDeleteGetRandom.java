@@ -9,7 +9,7 @@ public class M_380InsertDeleteGetRandom {
     ArrayList<Integer> list;
     Random rmd;
     /** Initialize your data structure here. */
-    public RandomizedSet() {
+    public void RandomizedSet() {
         map = new HashMap<>();
         list = new ArrayList<>();
         rmd = new Random();

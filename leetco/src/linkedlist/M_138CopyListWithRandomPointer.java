@@ -25,7 +25,7 @@ public class M_138CopyListWithRandomPointer {
             return this.visited.get(head);
         }
 
-        Node node = new Node(head.val,null, null);
+        Node node = new Node(head.val);
 
         this.visited.put(head,node);
 

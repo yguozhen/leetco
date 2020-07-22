@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/E_121BestTimeToBuyAndSwllStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/E_122BestTimeToBuyAndSellStock2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/E_53MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/E_561ArrayPartition1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/E_88MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/H_4MedianOfTwoSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/M_16ThreeSumCloset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/M_75SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dynamic_programming/H_123BestTimeToBugAndSellStock3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/M_200NumbersOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/M_2AddTwoNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarySearch/E_349IntersectionsOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarySearch/E_349IntersectionsOfTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/M_379DesignPhoneDirectionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/M_379DesignPhoneDirectionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/M_380InsertDeleteGetRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/M_380InsertDeleteGetRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/M_138CopyListWithRandomPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/M_138CopyListWithRandomPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/E_437PathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/E_437PathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/M_109ConvertSortedListToBinarySearchList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/M_109ConvertSortedListToBinarySearchList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,14 +126,14 @@
       <screen x="35" y="23" width="1245" height="777" />
     </state>
     <state x="35" y="23" key="new project wizard/35.23.1245.777@35.23.1245.777" timestamp="1591652345832" />
-    <state x="328" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1595095638064">
-      <screen x="43" y="23" width="1237" height="777" />
+    <state x="326" y="124" width="672" height="676" key="search.everywhere.popup" timestamp="1595358056239">
+      <screen x="41" y="23" width="1239" height="777" />
     </state>
     <state x="321" y="124" width="670" height="676" key="search.everywhere.popup/35.23.1245.777@35.23.1245.777" timestamp="1593632044347" />
     <state x="322" y="124" width="670" height="676" key="search.everywhere.popup/36.23.1244.777@36.23.1244.777" timestamp="1593804364277" />
     <state x="323" y="124" width="670" height="676" key="search.everywhere.popup/37.23.1243.777@37.23.1243.777" timestamp="1593487349693" />
     <state x="324" y="124" width="670" height="676" key="search.everywhere.popup/38.23.1242.777@38.23.1242.777" timestamp="1593909697947" />
-    <state x="326" y="124" width="672" height="676" key="search.everywhere.popup/41.23.1239.777@41.23.1239.777" timestamp="1594487329688" />
+    <state x="326" y="124" width="672" height="676" key="search.everywhere.popup/41.23.1239.777@41.23.1239.777" timestamp="1595358056239" />
     <state x="328" y="124" width="670" height="676" key="search.everywhere.popup/43.23.1237.777@43.23.1237.777" timestamp="1595095638064" />
   </component>
   <component name="XDebuggerManager">

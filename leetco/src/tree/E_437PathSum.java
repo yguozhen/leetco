@@ -1,21 +1,24 @@
 package tree;
 
+import java.util.HashMap;
+import java.util.Stack;
+
 public class E_437PathSum {
-    /**
-     * Definition for a binary tree node.
-     * public class TreeNode {
-     *     int val;
-     *     TreeNode left;
-     *     TreeNode right;
-     *     TreeNode() {}
-     *     TreeNode(int val) { this.val = val; }
-     *     TreeNode(int val, TreeNode left, TreeNode right) {
-     *         this.val = val;
-     *         this.left = left;
-     *         this.right = right;
-     *     }
-     * }
-     */
+
+
+    public class TreeNode {
+          int val;
+          TreeNode left;
+          TreeNode right;
+          TreeNode() {}
+          TreeNode(int val) { this.val = val; }
+          TreeNode(int val, TreeNode left, TreeNode right) {
+              this.val = val;
+              this.left = left;
+              this.right = right;
+          }
+    }
+
     //solution1
     class Solution {
         public int number = 0;
@@ -49,7 +52,7 @@ public class E_437PathSum {
         }
     }
     //recursive 2
-    class Solution {
+    class Solution2 {
 
         public int pathSum(TreeNode root, int sum) {
             if (root == null) return 0;

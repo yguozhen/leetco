@@ -33,6 +33,18 @@ public class M_264uglyNumber2 {
         return number;
     }
 
-    //solution2
-
+    //solution2 find the current min
+    public int nthUglyNumber2(int n) {
+        int[] array = new int[1690];
+        int n2 = 0, n3 = 0, n5 = 0;
+        array[0] = 1;
+        for(int i = 1; i < n; i++){
+            int min = Math.min(Math.min(array[n2] * 2, array[n3] * 3), array[n5] * 5);
+            array[i] = min;
+            if(min == array[n2] * 2) n2++;
+            if(min == array[n3] * 3) n3++;
+            if(min == array[n5] * 5) n5++;
+        }
+        return array[n - 1];
+    }
 }

@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/H_51NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/M_131PalindromePartitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/M_46Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/M_47Permutation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_74SearchA2DMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/graph/M_133CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_287FindTheDuplicateNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/M_264uglyNumber2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/M_264uglyNumber2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lintcode/binarySearch/E_14FirstPositionOfTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lintcode/binarySearch/E_28SearchA2DMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lintcode/binarySearch/E_457ClassicalBinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AAAAbasic/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/E_346MovingAverageFromDataStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/E_346MovingAverageFromDataStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/graph" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -54,8 +57,8 @@
       <recent name="$PROJECT_DIR$/src/graph" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="E_28SearchA2DMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.mergeSort">
+    <configuration name="E_28SearchA2DMatrix" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarySearch.E_28SearchA2DMatrix" />
       <module name="lintcode" />
       <extension name="coverage">
@@ -68,9 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AAAAbasic.mergeSort" />
+      <module name="leetco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AAAAbasic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E_28SearchA2DMatrix" />
+        <item itemvalue="Application.mergeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -91,26 +107,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1241" height="204" key="GridCell.Tab.0.bottom" timestamp="1593046474036">
-      <screen x="43" y="23" width="1237" height="777" />
+    <state width="1239" height="204" key="GridCell.Tab.0.bottom" timestamp="1596161770252">
+      <screen x="40" y="23" width="1240" height="777" />
     </state>
     <state width="1241" height="204" key="GridCell.Tab.0.bottom/1280.23.1048.747/35.23.1245.777@35.23.1245.777" timestamp="1591672508409" />
     <state width="1241" height="204" key="GridCell.Tab.0.bottom/1280.23.1048.747/43.23.1237.777@43.23.1237.777" timestamp="1593046474036" />
-    <state width="1241" height="204" key="GridCell.Tab.0.center" timestamp="1593046474033">
-      <screen x="43" y="23" width="1237" height="777" />
+    <state width="1239" height="204" key="GridCell.Tab.0.bottom/40.23.1240.777@40.23.1240.777" timestamp="1596161770252" />
+    <state width="1239" height="204" key="GridCell.Tab.0.center" timestamp="1596161770237">
+      <screen x="40" y="23" width="1240" height="777" />
     </state>
     <state width="1241" height="204" key="GridCell.Tab.0.center/1280.23.1048.747/35.23.1245.777@35.23.1245.777" timestamp="1591672508407" />
     <state width="1241" height="204" key="GridCell.Tab.0.center/1280.23.1048.747/43.23.1237.777@43.23.1237.777" timestamp="1593046474033" />
-    <state width="1241" height="204" key="GridCell.Tab.0.left" timestamp="1593046474031">
-      <screen x="43" y="23" width="1237" height="777" />
+    <state width="1239" height="204" key="GridCell.Tab.0.center/40.23.1240.777@40.23.1240.777" timestamp="1596161770237" />
+    <state width="1239" height="204" key="GridCell.Tab.0.left" timestamp="1596161770236">
+      <screen x="40" y="23" width="1240" height="777" />
     </state>
     <state width="1241" height="204" key="GridCell.Tab.0.left/1280.23.1048.747/35.23.1245.777@35.23.1245.777" timestamp="1591672508400" />
     <state width="1241" height="204" key="GridCell.Tab.0.left/1280.23.1048.747/43.23.1237.777@43.23.1237.777" timestamp="1593046474031" />
-    <state width="1241" height="204" key="GridCell.Tab.0.right" timestamp="1593046474033">
-      <screen x="43" y="23" width="1237" height="777" />
+    <state width="1239" height="204" key="GridCell.Tab.0.left/40.23.1240.777@40.23.1240.777" timestamp="1596161770236" />
+    <state width="1239" height="204" key="GridCell.Tab.0.right" timestamp="1596161770251">
+      <screen x="40" y="23" width="1240" height="777" />
     </state>
     <state width="1241" height="204" key="GridCell.Tab.0.right/1280.23.1048.747/35.23.1245.777@35.23.1245.777" timestamp="1591672508408" />
     <state width="1241" height="204" key="GridCell.Tab.0.right/1280.23.1048.747/43.23.1237.777@43.23.1237.777" timestamp="1593046474033" />
+    <state width="1239" height="204" key="GridCell.Tab.0.right/40.23.1240.777@40.23.1240.777" timestamp="1596161770251" />
     <state x="480" y="184" key="Vcs.Push.Dialog.v2" timestamp="1592969813039">
       <screen x="36" y="23" width="1244" height="777" />
     </state>
@@ -123,10 +143,11 @@
     <state x="315" y="246" key="com.intellij.ide.util.TipDialog/40.23.1240.777@40.23.1240.777" timestamp="1593046769177" />
     <state x="314" y="246" key="com.intellij.ide.util.TipDialog/41.23.1239.777@41.23.1239.777" timestamp="1595874050400" />
     <state x="315" y="246" key="com.intellij.ide.util.TipDialog/43.23.1237.777@43.23.1237.777" timestamp="1594406645438" />
-    <state x="35" y="23" key="new project wizard" timestamp="1591652345832">
-      <screen x="35" y="23" width="1245" height="777" />
+    <state x="40" y="23" width="1240" height="777" key="new project wizard" timestamp="1596161764194">
+      <screen x="40" y="23" width="1240" height="777" />
     </state>
     <state x="35" y="23" key="new project wizard/35.23.1245.777@35.23.1245.777" timestamp="1591652345832" />
+    <state x="40" y="23" width="1240" height="777" key="new project wizard/40.23.1240.777@40.23.1240.777" timestamp="1596161764194" />
     <state x="325" y="124" width="673" height="676" key="search.everywhere.popup" timestamp="1595705602482">
       <screen x="40" y="23" width="1240" height="777" />
     </state>

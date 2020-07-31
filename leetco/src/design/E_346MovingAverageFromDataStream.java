@@ -10,7 +10,7 @@ import java.util.ArrayList;
         /**
          * Initialize your data structure here.
          */
-        public MovingAverage(int size) {
+        public void MovingAverage(int size) {
             m = size;
         }
 
@@ -30,24 +30,24 @@ import java.util.ArrayList;
     }
 
     //solution2 o(m)
-    ArrayList<Integer> list = new ArrayList<>();
-    int m = 0;
+    ArrayList<Integer> list2 = new ArrayList<>();
+    int m2 = 0;
     /** Initialize your data structure here. */
-    public MovingAverage(int size) {
+    public void MovingAverage2(int size) {
         m = size;
     }
 
-    public double next(int val) {
-        list.add(val);
+    public double next2(int val) {
+        list2.add(val);
         double sum = 0;
-        if(list.size() < m){
-            for(double number :list){
+        if(list2.size() < m){
+            for(double number :list2){
                 sum = sum + number;
             }
-            return sum/list.size();
+            return sum/list2.size();
         }else{
             for(int i = 0; i < m; i ++){
-                sum = sum + list.get(list.size() - 1 - i);
+                sum = sum + list2.get(list2.size() - 1 - i);
             }
             return sum / m;
         }

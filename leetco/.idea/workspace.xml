@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6780591-ddbd-481e-8e8e-96fb83dc4c93" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AAAAbasic/mergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_287FindTheDuplicateNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/M_209MinimumSizeSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarySearch/M_981TimeBasedKeyValueStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lintcode/binarySearch/E_14FirstPositionOfTarget.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lintcode/binarySearch/E_28SearchA2DMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lintcode/binarySearch/E_457ClassicalBinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AAAAbasic/Sort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/design/E_346MovingAverageFromDataStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/E_346MovingAverageFromDataStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />

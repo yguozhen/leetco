@@ -8,6 +8,7 @@ public class H_315CountOfSmallerNumberAfterSelf {
     //solution1
     //create a arraylist to store the traversed number
     //the list index is the count number
+    //helper is use to get the index of target in sorted
     public int helper(List<Integer> sorted, int target){
         if(sorted.size() == 0){
             return 0;

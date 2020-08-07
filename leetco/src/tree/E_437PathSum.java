@@ -4,8 +4,6 @@ import java.util.HashMap;
 import java.util.Stack;
 
 public class E_437PathSum {
-
-
     public class TreeNode {
           int val;
           TreeNode left;
